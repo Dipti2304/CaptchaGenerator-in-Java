@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mewebstudio.captcha"},{"l":"com.mewebstudio.captcha.exception"},{"l":"com.mewebstudio.captcha.util"}];updateSearchResults();

@@ -1,0 +1,7 @@
+com\mewebstudio\captcha\CaptchaTest.class
+com\mewebstudio\captcha\ConfigTest.class
+CaptchaDemo.class
+com\mewebstudio\captcha\util\RandomStringGeneratorTest.class
+com\mewebstudio\captcha\GeneratedCaptchaTest.class
+CaptchaVerificationDemo.class
+com\mewebstudio\captcha\exception\FontLoadExceptionTest.class
